@@ -1,0 +1,110 @@
+body {
+    background-color: #C292F3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #24073D;
+}
+
+
+.btn-primary {
+    background-color: #A068F0;
+    border-color: #A068F0;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #7558DB;
+    border-color: #7558DB;
+}
+
+.table {
+    border-radius: 10px;
+}
+
+.table-dark {
+    background-color: #A068F0;
+    border-radius: 10px;
+}
+
+.table-dark th,
+.table-dark td {
+    border-color: #A068F0;
+}
+
+.table-dark th {
+    color: #fff;
+}
+
+.modal-content {
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.modal-header {
+    background-color: #A068F0;
+    color: #fff;
+    border-radius: 15px 15px 0 0;
+}
+
+.modal-footer {
+    background-color: #f5f5f5;
+    border-radius: 0 0 15px 15px;
+}
+
+.form-control {
+    border-color: #ccc;
+    border-radius: 10px;
+}
+
+.btn-secondary,
+.btn-secondary:hover {
+    background-color: #A068F0;
+    border-color: #A068F0;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: #A068F0;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 15px;
+}
+
+.modificaBtn {
+    background-color: #7558DB;
+    border-color: #7558DB;
+    border-radius: 10px;
+    color: #fff;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+.modificaBtn:hover {
+    background-color: #17546c;
+    border-color: #17546c;
+    color: #fff;
+}
+
+.eliminaBtn {
+    background-color: #DF6AE0;
+    border-color: #DF6AE0;
+    border-radius: 10px;
+    color: #fff;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+.eliminaBtn:hover {
+    background-color: #DF6AE0;
+    border-color: #DF6AE01;
+    color: #fff;
+}
+
+footer {
+    color: #767272;
+    padding: 2rem;
+    text-align: center;
+    width: 100vw;
+}
